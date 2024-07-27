@@ -1,4 +1,4 @@
 <?php
-header('Location: http://localhost/edu1/login');
+header('Location: http://localhost/eduquest/login');
 exit;
 ?>
